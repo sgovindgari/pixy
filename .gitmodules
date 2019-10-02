@@ -1,3 +1,6 @@
 [submodule "quickstart"]
 	path = quickstart
-	url = https://github.com/plaid/quickstart.git
+	url = https://github.com/sgovindgari/quickstart.git
+[submodule "bot"]
+	path = bot
+	url = https://github.com/sgovindgari/fb-messenger-bot.git
